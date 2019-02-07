@@ -219,6 +219,10 @@ nav ul li a {
 
 .logo {
   float: left;
+  font-family: 'Poppins', helvetica;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-weight: bold;
 }
 
 .logo img {
