@@ -82,8 +82,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["the union", "death", "colors", "the union death colors"],
-      typeSpeed: 100,
+      strings: ["Minami.", "a French toast addict."],
+      typeSpeed: 80,
       loop: true
     });
   });

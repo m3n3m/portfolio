@@ -86,7 +86,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #666666;
   line-height: 28px;
 }
 
@@ -219,15 +219,18 @@ nav ul li a {
 
 .logo {
   float: left;
-  font-family: 'Poppins', helvetica;
-  font-size: 2rem;
-  line-height: 2rem;
-  font-weight: bold;
 }
 
 .logo img {
   width: 100px;
   height: 50px;
+}
+
+.logo a {
+  font-size: 19px;
+  line-height: 38px;
+  font-weight: normal;
+  color: #b8a07e;c
 }
 
 .responsive {
@@ -247,7 +250,8 @@ nav ul li a {
   /* 
   background: url("../images/home-bg.jpg") repeat scroll center center / cover;
   */
-  background: #000;
+  background: linear-gradient(-45deg, rgba(246, 255, 0, .8), rgba(255, 0, 161, .8)) fixed, url("../images/portfolio/024.jpeg") fixed;
+  background-size: cover;
   height: 100vh;
   width: 100%;
 }
@@ -297,7 +301,7 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background: #fff6f8;
   padding-top: 190px;
 }
 

@@ -41,8 +41,9 @@
   }
   .responsive {
     float: right;
-    padding-top: 15px;
+    /* padding-top: 15px; */
     display: block;
+    line-height: 38px;
   }
   /* About */
   .head-info .header-content .cmaster h1 {
