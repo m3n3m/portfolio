@@ -247,10 +247,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  /* 
-  background: url("../images/home-bg.jpg") repeat scroll center center / cover;
-  */
-  background: linear-gradient(-45deg, rgba(246, 255, 0, .8), rgba(255, 0, 161, .8)) fixed, url("../images/portfolio/024.jpeg") fixed;
+  background: linear-gradient(-45deg, rgba(246, 255, 0, .8), rgba(255, 0, 161, .8)) fixed, url("../img/frenchtoast/024.jpeg") fixed;
   background-size: cover;
   height: 100vh;
   width: 100%;
